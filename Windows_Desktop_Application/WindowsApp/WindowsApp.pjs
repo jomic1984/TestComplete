@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{464A67B7-20BD-4F3A-95F9-54BB179462CE}">
+	<children>
+		<child name="Orders_WPF" key="{E8A02F9A-C656-4A5E-8A23-4A8541073C91}" path="Orders_WPF\Orders_WPF.mds" />
+	</children>
+	<testItems key="{6FD2B08E-76E4-4CFA-BD4D-7AE698384F58}">
+		<children>
+			<testItem key="{E8A02F9A-C656-4A5E-8A23-4A8541073C91}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{1F0B0B5A-F093-42FB-BF0D-2AC884E455CC}" />
+	<analysis key="{99E6C3DD-316E-4D78-8963-46EE6EC41147}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
